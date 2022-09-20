@@ -7,7 +7,7 @@ This is a basic template project used to create an application that uses the [De
 **Note: this project currently only builds on Windows!**
 
 ### Step 1 - Clone the repository
-```git clone --recurse-submodules https://github.com/ange-yaghi/delta-template```
+```git clone --recurse-submodules https://github.com/DDev247/delta-test```
 
 ### Step 2 - Install CMake
 Install the latest version of CMake [here](https://cmake.org/) if it's not already installed.
